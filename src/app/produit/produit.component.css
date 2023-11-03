@@ -1,0 +1,23 @@
+
+
+.produit img{
+    width: 100%;
+    height: 45vh;
+}
+
+.produit .btnDetail{
+    border: 1px solid brown; 
+    color: rgb(163, 58, 58);
+    font-weight: bold;
+    
+}
+.produit .btnDetail:hover{
+    background-color: brown;
+    color: white;    
+    transition: 1s;
+}
+
+.produit .price{
+    color: brown;
+    font-size: 3vh;
+}
